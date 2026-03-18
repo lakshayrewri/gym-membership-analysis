@@ -1,0 +1,21 @@
+class_id,class_name,trainer_id,duration_minutes,difficulty
+1,Mobility,7,45,Advanced
+2,Strength Training,7,50,Advanced
+3,Zumba,6,50,Beginner
+4,Mobility,9,50,Beginner
+5,Pilates,10,45,Advanced
+6,Strength Training,7,50,Beginner
+7,Mobility,4,80,Advanced
+8,Functional Training,9,45,Beginner
+9,Pilates,8,45,Advanced
+10,Yoga,7,45,Advanced
+11,CrossFit,8,45,Advanced
+12,Strength Training,1,45,Intermediate
+13,Cardio Blast,5,70,Beginner
+14,Functional Training,3,80,Advanced
+15,HIIT,9,70,Advanced
+16,Pilates,9,50,Advanced
+17,Pilates,7,50,Intermediate
+18,Bodybuilding,6,50,Intermediate
+19,Functional Training,5,50,Advanced
+20,Functional Training,2,60,Intermediate
